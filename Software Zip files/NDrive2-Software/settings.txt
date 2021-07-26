@@ -1,0 +1,31 @@
+//--------------------------------------------------------------
+defaultFirmware=474
+defaultLanguage=en;de
+defaultBaudrate= 115200
+
+COMFlushBeforeCommand=1
+COMReadTimeout=1
+COMWaitCommand=0
+COMWaitReply=0
+sleepGranularity=2
+preventPCEnergySaving=1
+emailAbout=0
+
+//versionRegisterFile=1.1
+
+//-------------------------------- keep order--------------------
+//include=settings\units.txt
+include=settings\regid.txt
+
+include=settings\globals.txt
+include=settings\default_style.txt
+
+include=<optional>..\debug\debug.txt
+include=settings\pages.txt
+include=settings\dropdown.txt
+include=<optional>..\debug\settings\dropdown_dbg.txt
+
+//--------------------------------------------------------------
+minMaxFile=""
+regListFile= settings\Reglist.txt
+//--------------------------------------------------------------
