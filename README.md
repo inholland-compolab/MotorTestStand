@@ -9,6 +9,9 @@ Package can be found in the software folder. Then copy the Gantner Instruments f
 NI-CAN instrument driver<br>
 Download from: https://www.ni.com/nl-nl/support/downloads/drivers/download.ni-can.html#344641 <br>
 
+API for PCAN from KDI Kunze Digital Instruments <br> 
+Can be found in the software folder <br>
+
 
 **Epics** <br>
 Dragonfly <br>
