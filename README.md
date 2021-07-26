@@ -1,7 +1,7 @@
 # MotorTestStand
 Electric motor test stand at API building for testing of electric motors.
 
-**Epics**
-Dragonfly, 
-Inholland Aeronautical and Precision engineering practicals and 
-Third party motor testing
+**Epics** <br>
+Dragonfly <br>
+Inholland Aeronautical and Precision engineering practicals <br>
+Third party motor testing <br>
