@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Lab Manager" Type="Folder"/>
 		<Item Name="Specific motor control VI&apos;s" Type="Folder">
 			<Item Name="AAA Emrax 228 2.0 KLEIN BEELD.vi" Type="VI" URL="../SubVIs/LabVIEW VI&apos;s/AAA Emrax 228 2.0 KLEIN BEELD.vi"/>
 			<Item Name="AAA Emrax 228 2.0.vi" Type="VI" URL="../SubVIs/LabVIEW VI&apos;s/AAA Emrax 228 2.0.vi"/>
@@ -18,6 +19,10 @@
 			<Item Name="AAA Hacker A150-12.vi" Type="VI" URL="../SubVIs/LabVIEW VI&apos;s/AAA Hacker A150-12.vi"/>
 			<Item Name="AAA MotorTestBench.vi" Type="VI" URL="../SubVIs/LabVIEW VI&apos;s/AAA MotorTestBench.vi"/>
 		</Item>
+		<Item Name="Test Engineering" Type="Folder">
+			<Item Name="TestEngineerOverview.vi" Type="VI" URL="../SubVIs/TestEngineerOverview.vi"/>
+		</Item>
+		<Item Name="Test Execution" Type="Folder"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="MotorSelection.ctl" Type="VI" URL="../Controls/MotorSelection.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
